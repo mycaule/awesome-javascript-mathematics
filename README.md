@@ -27,5 +27,7 @@
 ### Demos
 
 ### Resources
+- [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
+- [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
