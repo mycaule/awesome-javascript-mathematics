@@ -24,7 +24,7 @@
 #### Applied Geometry / Computer Graphics
 - [Three.js ](http://threejs.org/) - Draw 3D objects. [Git](https://github.com/mrdoob/three.js)
 - [Cannon.js](http://schteppe.github.io/cannon.js/) - Make physics simulations. [Git](https://github.com/schteppe/cannon.js)
-- [Tracking.js](http://trackingjs.com/)- Face tracking using computer vision algorithms. [Git](https://github.com/eduardolundgren/tracking.js)
+- [Tracking.js](http://trackingjs.com/) - Face tracking using computer vision algorithms. [Git](https://github.com/eduardolundgren/tracking.js)
 
 ### REST APIs
 - [Wolfram|Alpha](http://products.wolframalpha.com/developers)
