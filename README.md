@@ -4,12 +4,16 @@
 
 ### Libraries - JavaScript & Node.js
 
+#### Numbers
+- [Numeral.js](http://numeraljs.com/) - Format numbers to look like currency, percentages, times with decimal places, thousands, and abbreviations. [Git](https://github.com/adamwdraper/Numeral-js)
+
 #### Formulas
 - [Math.js](http://mathjs.org/) - Parse your expressions and mathematical datatypes. [Git](https://github.com/josdejong/mathjs)
 - [MathJAX](http://www.mathjax.org/) - Render `LaTeX` formulas in the browser. [Git](https://github.com/mathjax/mathjax)
 
 #### Functionnal Programming
 - [Lo-Dash](https://lodash.com/) - Functional programming. [Git](https://github.com/lodash/lodash)
+- [Async](https://github.com/caolan/async) - Asynchronous patterns in *JavaScript*. [Git](https://github.com/caolan/async)
 
 #### Data Analysis
 - [DataTables](http://www.datatables.net/) - View and filter data in `HTML` tables [Git](https://github.com/DataTables/DataTables)
