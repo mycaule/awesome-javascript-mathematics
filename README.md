@@ -25,6 +25,7 @@
 #### Applied Geometry / Computer Graphics
 - [Three.js ](http://threejs.org/) - Draw 3D objects. [Git](https://github.com/mrdoob/three.js)
 - [Cannon.js](http://schteppe.github.io/cannon.js/) - Make physics simulations. [Git](https://github.com/schteppe/cannon.js)
+- [Matter.js](http://brm.io/matter-js/) - Physics simulations. [Git](https://github.com/liabru/matter-js/)
 - [Tracking.js](http://trackingjs.com/) - Face tracking using computer vision algorithms. [Git](https://github.com/eduardolundgren/tracking.js)
 - [Nude.js](http://www.patrick-wied.at/static/nudejs) - Nudity detection with HTML and Canvas. [Git](https://github.com/pa7/nude.js)
 
