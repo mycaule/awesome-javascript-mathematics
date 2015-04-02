@@ -6,6 +6,7 @@
 
 #### Numbers
 - [Numeral.js](http://numeraljs.com/) - Format numbers to look like currency, percentages, times with decimal places, thousands, and abbreviations. [Git](https://github.com/adamwdraper/Numeral-js)
+- [Primes.io](http://primes.io) - Prime numbers visualizer.
 
 #### Formulas
 - [Math.js](http://mathjs.org/) - Parse your expressions and mathematical datatypes. [Git](https://github.com/josdejong/mathjs)
