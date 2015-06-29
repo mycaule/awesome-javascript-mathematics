@@ -7,6 +7,8 @@
 #### Numbers
 - [Numeral.js](http://numeraljs.com/) - Format numbers to look like currency, percentages, times with decimal places, thousands, and abbreviations. [Git](https://github.com/adamwdraper/Numeral-js)
 - [Primes.io](http://primes.io) - Prime numbers visualizer.
+- [Fraction.js](http://www.xarg.org/2014/03/precise-calculations-in-javascript/) - **Q** in JavaScript. [Git](https://github.com/infusion/Fraction.js)
+- Complex.js - **C** in JavaScript. [Git](https://github.com/infusion/Complex.js)
 
 #### Formulas
 - [Math.js](http://mathjs.org/) - Parse your expressions and mathematical datatypes. [Git](https://github.com/josdejong/mathjs)
