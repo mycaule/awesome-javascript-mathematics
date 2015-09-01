@@ -13,6 +13,7 @@
 #### Formulas
 - [Math.js](http://mathjs.org/) - Parse your expressions and mathematical datatypes. [Git](https://github.com/josdejong/mathjs)
 - [MathJAX](http://www.mathjax.org/) - Render `LaTeX` formulas in the browser. [Git](https://github.com/mathjax/mathjax)
+- [algebra.js](http://algebra.js.org/) - Build, display, and solve algebraic equations. [Git](https://github.com/nicolewhite/algebra.js)
 
 #### Functionnal Programming
 - [Lo-Dash](https://lodash.com/) - Functional programming. [Git](https://github.com/lodash/lodash)
