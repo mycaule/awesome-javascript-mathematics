@@ -27,6 +27,9 @@
 - [MetricsGraphics.js](http://metricsgraphicsjs.org/) - Time-series data. [Git](https://github.com/mozilla/metrics-graphics/)
 - [D3](http://d3js.org/) - Customize visualizations with `svg`. [Git](https://github.com/mbostock/d3)
 
+#### Numerical Analysis
+- [Numeric](http://www.numericjs.com/) - Numerical analysis in *Javascript*. [Git](http://www.numericjs.com/)
+
 #### Applied Geometry / Computer Graphics
 - [Three.js ](http://threejs.org/) - Draw 3D objects. [Git](https://github.com/mrdoob/three.js)
 - [Cannon.js](http://schteppe.github.io/cannon.js/) - Make physics simulations. [Git](https://github.com/schteppe/cannon.js)
