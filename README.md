@@ -26,6 +26,7 @@
 - [sigma.js](http://sigmajs.org/) - Draw graphs. [Git](https://github.com/jacomyal/sigma.js)
 - [MetricsGraphics.js](http://metricsgraphicsjs.org/) - Time-series data. [Git](https://github.com/mozilla/metrics-graphics/)
 - [D3](http://d3js.org/) - Customize visualizations with `svg`. [Git](https://github.com/mbostock/d3)
+- [Plotly.js](https://plot.ly/) - JavaScript library for scientific interactive charts. [Git](https://github.com/plotly/plotly.js)
 
 #### Numerical Analysis
 - [Numeric](http://www.numericjs.com/) - Numerical analysis in *Javascript*. [Git](http://www.numericjs.com/)
