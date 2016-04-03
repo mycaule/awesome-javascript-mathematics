@@ -19,6 +19,12 @@
 #### Functionnal Programming
 - [Lo-Dash](https://lodash.com/) - Functional programming. [Git](https://github.com/lodash/lodash)
 - [Async](https://github.com/caolan/async) - Asynchronous patterns in *JavaScript*. [Git](https://github.com/caolan/async)
+- [Lazy](http://ramdajs.com/)
+- [Ramda](http://danieltao.com/lazy.js/)
+- [Immutable.js](https://facebook.github.io/immutable-js/)
+
+#### Machine Learning
+- [Awesome-Machine-Learning list](https://github.com/josephmisiti/awesome-machine-learning#javascript)
 
 #### Data Analysis
 - [DataTables](http://www.datatables.net/) - View and filter data in `HTML` tables [Git](https://github.com/DataTables/DataTables)
