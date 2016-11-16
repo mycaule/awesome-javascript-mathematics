@@ -25,6 +25,7 @@
 
 #### Machine Learning
 - [Awesome-Machine-Learning list](https://github.com/josephmisiti/awesome-machine-learning#javascript)
+- [EclairJS](https://developer.ibm.com/open/eclairjs/) - JS Interface for Apache Spark. [Git](https://github.com/EclairJS/eclairjs)
 
 #### Data Analysis
 - [DataTables](http://www.datatables.net/) - View and filter data in `HTML` tables [Git](https://github.com/DataTables/DataTables)
