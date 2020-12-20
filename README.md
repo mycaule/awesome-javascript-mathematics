@@ -33,7 +33,6 @@
 
 #### Machine Learning
 - [Awesome-Machine-Learning list](https://github.com/josephmisiti/awesome-machine-learning#javascript)
-- [EclairJS](https://developer.ibm.com/open/eclairjs/) - JS Interface for Apache Spark. [Git](https://github.com/EclairJS/eclairjs)
 - [`ml5js/ml5-library`](https://github.com/ml5js/ml5-library)
 - [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
 - [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
@@ -41,22 +40,21 @@
 - [`wooorm/franc`](https://github.com/wooorm/franc)
 
 #### Deep Learning
-- [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
 - [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
 - [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
 - [`huggingface/node-question-answering`](https://github.com/huggingface/node-question-answering)
 - [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
 - [`justadudewhohacks/face-api.js`](https://github.com/justadudewhohacks/face-api.js)
 - [`justadudewhohacks/opencv4nodejs`](https://github.com/justadudewhohacks/opencv4nodejs)
-- [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
-- [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
 - [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
+- [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
+- [`tensorflow/tfjs-models`](https://github.com/tensorflow/tfjs-models)
 - [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
 - [`karpathy/convnetjs`](https://github.com/karpathy/convnetjs)
-- [`tensorflow/tfjs-models`](https://github.com/tensorflow/tfjs-models)
 - [`google/mediapipe`](https://github.com/google/mediapipe)
 
 #### Data Analysis
+- [EclairJS](https://developer.ibm.com/open/eclairjs/) - JS Interface for Apache Spark. [Git](https://github.com/EclairJS/eclairjs)
 - [DataTables](http://www.datatables.net/) - View and filter data in `HTML` tables [Git](https://github.com/DataTables/DataTables)
 - [Chart.js](http://www.chartjs.org/) - Draw `<canvas>` charts. [Git](https://github.com/nnnick/Chart.js)
 - [sigma.js](http://sigmajs.org/) - Draw graphs. [Git](https://github.com/jacomyal/sigma.js)
@@ -83,6 +81,9 @@
 - [Cloudinary](http://cloudinary.com/documentation/node_integration)
 
 ### Demos
+- [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
+- [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
+- [`google/mediapipe`](https://github.com/google/mediapipe)
 
 ### Resources
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
