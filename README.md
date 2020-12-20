@@ -24,7 +24,7 @@
 - [KaTeX](https://katex.org) - Fastest `LaTeX` renderer for the web. [Git](https://github.com/KaTeX/KaTeX)
 - [`overleaf/overleaf`](https://github.com/overleaf/overleaf)
 
-#### Functionnal Programming
+#### Functional Programming
 - [Lo-Dash](https://lodash.com/) - Functional programming. [Git](https://github.com/lodash/lodash)
 - [Async](https://github.com/caolan/async) - Asynchronous patterns in *JavaScript*. [Git](https://github.com/caolan/async)
 - [Lazy](http://ramdajs.com/)
