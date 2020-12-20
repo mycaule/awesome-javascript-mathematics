@@ -54,6 +54,7 @@
 - [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
 - [`karpathy/convnetjs`](https://github.com/karpathy/convnetjs)
 - [`tensorflow/tfjs-models`](https://github.com/tensorflow/tfjs-models)
+- [`google/mediapipe`](https://github.com/google/mediapipe)
 
 #### Data Analysis
 - [DataTables](http://www.datatables.net/) - View and filter data in `HTML` tables [Git](https://github.com/DataTables/DataTables)
