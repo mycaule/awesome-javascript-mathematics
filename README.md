@@ -2,7 +2,7 @@
 
 > A curated list of delightful JavaScript [libraries](#libraries), [demos](#demos) and [resources](#resources) for Mathematics.
 
-### Libraries - JavaScript & Node.js
+### Libraries
 
 #### Numbers
 - [Numeral.js](http://numeraljs.com/) - Format numbers to look like currency, percentages, times with decimal places, thousands, and abbreviations. [Git](https://github.com/adamwdraper/Numeral-js)
