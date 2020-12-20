@@ -65,6 +65,7 @@
 - [`highcharts/highcharts`](https://github.com/highcharts/highcharts)
 - [`microsoft/napajs`](https://github.com/microsoft/napajs)
 - [`vega/vega-lite`](https://github.com/vega/vega-lite)
+- [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
 
 #### Numerical Analysis
 - [Numeric](http://www.numericjs.com/) - Numerical analysis in *Javascript*. [Git](http://www.numericjs.com/)
@@ -74,7 +75,7 @@
 - [Cannon.js](http://schteppe.github.io/cannon.js/) - Make physics simulations. [Git](https://github.com/schteppe/cannon.js)
 - [Matter.js](http://brm.io/matter-js/) - Physics simulations. [Git](https://github.com/liabru/matter-js/)
 - [Tracking.js](http://trackingjs.com/) - Face tracking using computer vision algorithms. [Git](https://github.com/eduardolundgren/tracking.js)
-- [Nude.js](http://www.patrick-wied.at/static/nudejs) - Nudity detection with HTML and Canvas. [Git](https://github.com/pa7/nude.js)
+- [`peterbraden/node-opencv`](https://github.com/peterbraden/node-opencv)
 
 ### REST APIs
 - [Wolfram|Alpha](http://products.wolframalpha.com/developers)
