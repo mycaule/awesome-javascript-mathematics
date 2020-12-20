@@ -12,11 +12,6 @@
 - [Combinatorics.js](https://github.com/devanp92/combinatorics.js) - Permutations, Posets, Trees, and other enumerative collections. [Git](https://github.com/devanp92/combinatorics.js)
 - [`ethereumjs/merkle-patricia-tree`](https://github.com/ethereumjs/merkle-patricia-tree)
 
-#### Geometry
-- [`juliuste/projections`](https://github.com/juliuste/projections)
-- [`keplergl/kepler.gl`](https://github.com/keplergl/kepler.gl)
-- [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
-
 #### Formulas
 - [Math.js](http://mathjs.org/) - Parse your expressions and mathematical datatypes. [Git](https://github.com/josdejong/mathjs)
 - [MathJAX](http://www.mathjax.org/) - Render `LaTeX` formulas in the browser. [Git](https://github.com/mathjax/mathjax)
@@ -67,7 +62,7 @@
 - [`d3/d3-hierarchy`](https://github.com/d3/d3-hierarchy)
 
 #### Numerical Analysis
-- [Numeric](http://www.numericjs.com/) - Numerical analysis in *Javascript*. [Git](http://www.numericjs.com/)
+- [`sloisel/numeric`](https://github.com/sloisel/numeric/) - Numerical analysis in *Javascript*.
 
 #### Applied Geometry / Computer Graphics
 - [Three.js ](http://threejs.org/) - Draw 3D objects. [Git](https://github.com/mrdoob/three.js)
@@ -75,6 +70,9 @@
 - [Matter.js](http://brm.io/matter-js/) - Physics simulations. [Git](https://github.com/liabru/matter-js/)
 - [Tracking.js](http://trackingjs.com/) - Face tracking using computer vision algorithms. [Git](https://github.com/eduardolundgren/tracking.js)
 - [`peterbraden/node-opencv`](https://github.com/peterbraden/node-opencv)
+- [`juliuste/projections`](https://github.com/juliuste/projections)
+- [`keplergl/kepler.gl`](https://github.com/keplergl/kepler.gl)
+- [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
 
 ### REST APIs
 - [Wolfram|Alpha](http://products.wolframalpha.com/developers)
@@ -88,5 +86,9 @@
 ### Resources
 - [Awesome JavaScript](https://github.com/sorrycc/awesome-javascript)
 - [Awesome Node.js](https://github.com/sindresorhus/awesome-nodejs)
+
+## Edge computing
+- [Vivienne Sze - Efficient Computing for Deep Learning, Robotics, and AI](https://www.youtube.com/watch?v=WbLQqPw_n88)
+- [Ann Yuan, Marat Dukhan - Supercharging the TensorFlow.js WebAssembly backend with SIMD and multi-threading](https://blog.tensorflow.org/2020/09/supercharging-tensorflowjs-webassembly.html)
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
