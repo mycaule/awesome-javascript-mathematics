@@ -10,12 +10,19 @@
 - [Fraction.js](http://www.xarg.org/2014/03/precise-calculations-in-javascript/) - **Q** in JavaScript. [Git](https://github.com/infusion/Fraction.js)
 - Complex.js - **C** in JavaScript. [Git](https://github.com/infusion/Complex.js)
 - [Combinatorics.js](https://github.com/devanp92/combinatorics.js) - Permutations, Posets, Trees, and other enumerative collections. [Git](https://github.com/devanp92/combinatorics.js)
+- [`ethereumjs/merkle-patricia-tree`](https://github.com/ethereumjs/merkle-patricia-tree)
+
+#### Geometry
+- [`juliuste/projections`](https://github.com/juliuste/projections)
+- [`keplergl/kepler.gl`](https://github.com/keplergl/kepler.gl)
+- [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
 
 #### Formulas
 - [Math.js](http://mathjs.org/) - Parse your expressions and mathematical datatypes. [Git](https://github.com/josdejong/mathjs)
 - [MathJAX](http://www.mathjax.org/) - Render `LaTeX` formulas in the browser. [Git](https://github.com/mathjax/mathjax)
 - [algebra.js](http://algebra.js.org/) - Build, display, and solve algebraic equations. [Git](https://github.com/nicolewhite/algebra.js)
 - [KaTeX](https://katex.org) - Fastest `LaTeX` renderer for the web. [Git](https://github.com/KaTeX/KaTeX)
+- [`overleaf/overleaf`](https://github.com/overleaf/overleaf)
 
 #### Functionnal Programming
 - [Lo-Dash](https://lodash.com/) - Functional programming. [Git](https://github.com/lodash/lodash)
@@ -27,6 +34,26 @@
 #### Machine Learning
 - [Awesome-Machine-Learning list](https://github.com/josephmisiti/awesome-machine-learning#javascript)
 - [EclairJS](https://developer.ibm.com/open/eclairjs/) - JS Interface for Apache Spark. [Git](https://github.com/EclairJS/eclairjs)
+- [`ml5js/ml5-library`](https://github.com/ml5js/ml5-library)
+- [`naptha/tesseract.js`](https://github.com/naptha/tesseract.js)
+- [`NaturalNode/natural`](https://github.com/NaturalNode/natural)
+- [`spencermountain/compromise`](https://github.com/spencermountain/compromise)
+- [`wooorm/franc`](https://github.com/wooorm/franc)
+
+#### Deep Learning
+- [`androidfanatic/tfjs-squats-counter-html`](https://github.com/androidfanatic/tfjs-squats-counter-html)
+- [`atanasster/hyperparameters`](https://github.com/atanasster/hyperparameters)
+- [`GantMan/nsfw_model`](https://github.com/GantMan/nsfw_model)
+- [`huggingface/node-question-answering`](https://github.com/huggingface/node-question-answering)
+- [`infinitered/nsfwjs`](https://github.com/infinitered/nsfwjs)
+- [`justadudewhohacks/face-api.js`](https://github.com/justadudewhohacks/face-api.js)
+- [`justadudewhohacks/opencv4nodejs`](https://github.com/justadudewhohacks/opencv4nodejs)
+- [`reiinakano/arbitrary-image-stylization-tfjs`](https://github.com/reiinakano/arbitrary-image-stylization-tfjs)
+- [`tensorflow/tfjs-examples`](https://github.com/tensorflow/tfjs-examples)
+- [`tensorflow/tfjs`](https://github.com/tensorflow/tfjs)
+- [`victordibia/handtrack.js`](https://github.com/victordibia/handtrack.js)
+- [`karpathy/convnetjs`](https://github.com/karpathy/convnetjs)
+- [`tensorflow/tfjs-models`](https://github.com/tensorflow/tfjs-models)
 
 #### Data Analysis
 - [DataTables](http://www.datatables.net/) - View and filter data in `HTML` tables [Git](https://github.com/DataTables/DataTables)
@@ -35,6 +62,9 @@
 - [MetricsGraphics.js](http://metricsgraphicsjs.org/) - Time-series data. [Git](https://github.com/mozilla/metrics-graphics/)
 - [D3](http://d3js.org/) - Customize visualizations with `svg`. [Git](https://github.com/mbostock/d3)
 - [Plotly.js](https://plot.ly/javascript/) - JavaScript library for scientific interactive charts. [Git](https://github.com/plotly/plotly.js)
+- [`highcharts/highcharts`](https://github.com/highcharts/highcharts)
+- [`microsoft/napajs`](https://github.com/microsoft/napajs)
+- [`vega/vega-lite`](https://github.com/vega/vega-lite)
 
 #### Numerical Analysis
 - [Numeric](http://www.numericjs.com/) - Numerical analysis in *Javascript*. [Git](http://www.numericjs.com/)
