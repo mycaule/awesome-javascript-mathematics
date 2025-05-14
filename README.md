@@ -74,6 +74,9 @@
 - [`keplergl/kepler.gl`](https://github.com/keplergl/kepler.gl)
 - [`visgl/loaders.gl`](https://github.com/visgl/loaders.gl)
 
+#### Numerical Simulation
+- [FEAScript](https://feascript.com/) - A JavaScript finite element simulation library. [Git](https://github.com/FEAScript)
+
 ### REST APIs
 - [Wolfram|Alpha](http://products.wolframalpha.com/developers)
 - [Cloudinary](http://cloudinary.com/documentation/node_integration)
